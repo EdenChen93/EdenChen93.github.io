@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-17T22:48:46+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">3D Mv Supporter</title><subtitle>This is a website for someone wants know about 3D sensors, wish you have fun here.</subtitle><entry><title type="html">FirstBlog!</title><link href="http://localhost:4000/jekyll/update/2025/03/17/First-Blog.html" rel="alternate" type="text/html" title="FirstBlog!" /><published>2025-03-17T21:16:06+08:00</published><updated>2025-03-17T21:16:06+08:00</updated><id>http://localhost:4000/jekyll/update/2025/03/17/First-Blog</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/17/First-Blog.html"><![CDATA[<h1 id="如何创建博客">如何创建博客</h1>
+<p>创建博客很难</p>
+<h3 id="first-tabs">First tabs</h3>
+<ul id="log" class="tab" data-tab="7b8a6bba-e357-4eca-a510-dfac4573ed91" data-name="log">
+  
+      <li class="active" id="log-php">
+          <a href="#">php </a>
+      </li>
+  
+      <li id="log-js">
+          <a href="#">js </a>
+      </li>
+  
+      <li id="log-ruby">
+          <a href="#">ruby </a>
+      </li>
+  
+</ul>
+<ul class="tab-content" id="7b8a6bba-e357-4eca-a510-dfac4573ed91" data-name="log">
+  
+      <li class="active">
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
+</code></pre></div></div>
+</li>
+  
+      <li>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span><span class="p">);</span>
+</code></pre></div></div>
+</li>
+  
+      <li>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">pputs</span> <span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span>
+</code></pre></div></div>
+</li>
+  
+</ul>]]></content><author><name>Eden</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[如何创建博客 创建博客很难 First tabs php js ruby var_dump('hello'); console.log('hello'); pputs 'hello']]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/03/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-16T22:21:28+08:00</published><updated>2025-03-16T22:21:28+08:00</updated><id>http://localhost:4000/jekyll/update/2025/03/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Eden</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
