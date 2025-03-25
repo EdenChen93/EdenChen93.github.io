@@ -1,0 +1,10 @@
+.toc {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  max-width: 250px;
+  background: white;
+  padding: 1em;
+  border: 1px solid #ddd;
+  ul { list-style: none; padding-left: 0; }
+  .toc-level-
